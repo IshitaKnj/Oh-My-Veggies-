@@ -7,7 +7,9 @@ So we thought of a more consistent and speedy method. Making use of Java and Mac
 
 
 # App Screens: 
-<img width="300" alt="Screen Shot 2020-10-05 at 1 41 38 PM" src="https://user-images.githubusercontent.com/71023544/95056784-d76d4380-0712-11eb-8b71-d37f4030b0ac.png">
+<img width="300" alt="Screen Shot 2020-10-05 at 1 41 38 PM" src="https://user-images.githubusercontent.com/71023544/95056784-d76d4380-0712-11eb-8b71-d37f4030b0ac.png"><img width="300" alt="Screen Shot 2020-10-05 at 1 41 51 PM" src="https://user-images.githubusercontent.com/71023544/95058253-e48b3200-0714-11eb-8890-52a02f32322f.png"><img width="300" alt="Screen Shot 2020-10-05 at 1 42 08 PM" src="https://user-images.githubusercontent.com/71023544/95058274-ea811300-0714-11eb-91d5-6f88adbc3bc1.png">
+
+
 
 
 # Team details:
