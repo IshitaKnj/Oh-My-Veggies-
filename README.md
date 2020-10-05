@@ -8,6 +8,9 @@ So we thought of a more consistent and speedy method. Making use of Java and Mac
 
 # Team details:
 Name: The Brainy Fools
+
 Members: 
+
 Ishita
+
 Ritika Talukdar
