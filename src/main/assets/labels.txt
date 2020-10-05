@@ -1,0 +1,6 @@
+Fresh Banana (Calorie Content: 89)
+Rotten Orange
+Rotten Apple
+Rotten Banana
+Fresh Apple (Calorie Content: 52)
+Fresh Orange (Calorie Content: 47)
