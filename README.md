@@ -5,7 +5,7 @@ So we thought of a more consistent and speedy method. Making use of Java and Mac
 # App Logo ![Untitled design](https://user-images.githubusercontent.com/71023544/95056558-8bba9a00-0712-11eb-8c7e-95eba1aa725b.png)
 
 
-# App Screens
+# App Screens <img width="100" alt="Screen Shot 2020-10-05 at 1 41 38 PM" src="https://user-images.githubusercontent.com/71023544/95056784-d76d4380-0712-11eb-8b71-d37f4030b0ac.png">
 
 # Team details:
 Name: The Brainy Fools
